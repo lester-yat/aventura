@@ -102,7 +102,7 @@ span.go,
   position: absolute;
   width: 850px;
   height: 550px;
-  background: url(/assets/images/kx3psEN.png);
+  background: url(../assets/images/kx3psEN.png);
   background-size: cover;
   display: none;
   align-items: center;
@@ -136,14 +136,14 @@ span.go,
 .box {
   width: 100px;
   height: 100px;
-  background: url(/assets/images/ViqP2fB.png);
+  background: url(../assets/images/ViqP2fB.png);
   background-size: cover;
   margin: 20px;
   cursor: pointer;
 }
 
 .box:hover {
-  background: url(/assets/images/FIrcwmM.png);
+  background: url(../assets/images/FIrcwmM.png);
   background-size: cover;
 }
 
@@ -220,14 +220,14 @@ span.go,
 .ring {
   width: 150px;
   height: 150px;
-  background: url(/assets/images/oEs8TdL.png);
+  background: url(../assets/images/oEs8TdL.png);
   background-size: cover;
 }
 
 .ichigo {
   width: 200px;
   height: 200px;
-  background: url(/assets/images/hGY3pGX.png);
+  background: url(../assets/images/hGY3pGX.png);
   background-size: cover;
 }
 
@@ -309,7 +309,7 @@ h2 {
 .img1 {
   width: 150px;
   height: 150px;
-  background: url(/assets/images/QLrOZMR.png);
+  background: url(../assets/images/QLrOZMR.png);
   background-size: cover;
 }
 
@@ -319,7 +319,7 @@ h2 {
   left: 360px;
   width: 130px;
   height: 130px;
-  background: url(/assets/images/SVZxE8c.png);
+  background: url(../assets/images/SVZxE8c.png);
   background-size: 100%;
 }
 
