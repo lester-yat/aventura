@@ -176,6 +176,7 @@ span.go,
   right: 0px;
   bottom: 0px;
   left: 0px;
+  padding: 150px 0px;
   font: 26px 'VT323', monospace;
   text-align: justify;
   display: none;
@@ -215,6 +216,7 @@ span.go,
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  margin: 130px 0 0 0;
 }
 
 .ring {
